@@ -467,7 +467,7 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: @csstools/color-helpers, @csstools/normalize.css, @csstools/postcss-color-function, @csstools/postcss-color-mix-function, @csstools/postcss-progressive-custom-properties, postcss-browser-comments, postcss-normalize, sanitize.css. A copy of the source code may be downloaded from https://github.com/csstools/postcss-plugins.git (@csstools/color-helpers), https://github.com/csstools/normalize.css.git (@csstools/normalize.css), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-mix-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-progressive-custom-properties), https://github.com/csstools/postcss-browser-comments.git (postcss-browser-comments), https://github.com/csstools/postcss-normalize.git (postcss-normalize), https://github.com/csstools/sanitize.css.git (sanitize.css). This software contains the following license and notice below:
+The following software may be included in this product: @csstools/normalize.css, @csstools/postcss-color-function, @csstools/postcss-color-mix-function, @csstools/postcss-progressive-custom-properties, postcss-browser-comments, postcss-normalize, sanitize.css. A copy of the source code may be downloaded from https://github.com/csstools/normalize.css.git (@csstools/normalize.css), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-mix-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-progressive-custom-properties), https://github.com/csstools/postcss-browser-comments.git (postcss-browser-comments), https://github.com/csstools/postcss-normalize.git (postcss-normalize), https://github.com/csstools/sanitize.css.git (sanitize.css). This software contains the following license and notice below:
 
 # CC0 1.0 Universal
 
@@ -1363,7 +1363,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 -----
 
-The following software may be included in this product: @nicolo-ribaudo/semver-v6, @trysound/sax, ini, isexe, lru-cache, minimatch, once, rimraf, semver, which, wrappy, yallist. A copy of the source code may be downloaded from https://github.com/nicolo-ribaudo/semver-v6 (@nicolo-ribaudo/semver-v6), git://github.com/svg/sax.git (@trysound/sax), git://github.com/isaacs/ini.git (ini), git+https://github.com/isaacs/isexe.git (isexe), git://github.com/isaacs/node-lru-cache.git (lru-cache), git://github.com/isaacs/minimatch.git (minimatch), git://github.com/isaacs/once (once), git://github.com/isaacs/rimraf.git (rimraf), https://github.com/npm/node-semver (semver), git://github.com/isaacs/node-which.git (which), https://github.com/npm/wrappy (wrappy), git+https://github.com/isaacs/yallist.git (yallist). This software contains the following license and notice below:
+The following software may be included in this product: @nicolo-ribaudo/semver-v6, @trysound/sax, ini, isexe, lru-cache, minimatch, once, rimraf, semver, which, wrappy, yallist. A copy of the source code may be downloaded from https://github.com/nicolo-ribaudo/semver-v6 (@nicolo-ribaudo/semver-v6), git://github.com/svg/sax.git (@trysound/sax), git://github.com/isaacs/ini.git (ini), git+https://github.com/isaacs/isexe.git (isexe), git://github.com/isaacs/node-lru-cache.git (lru-cache), git://github.com/isaacs/minimatch.git (minimatch), git://github.com/isaacs/once (once), git://github.com/isaacs/rimraf.git (rimraf), https://github.com/npm/node-semver.git (semver), git://github.com/isaacs/node-which.git (which), https://github.com/npm/wrappy (wrappy), git+https://github.com/isaacs/yallist.git (yallist). This software contains the following license and notice below:
 
 The ISC License
 
@@ -3725,7 +3725,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: available-typed-arrays, is-weakref, typed-array-length. A copy of the source code may be downloaded from git+https://github.com/inspect-js/available-typed-arrays.git (available-typed-arrays), git+https://github.com/inspect-js/is-weakref.git (is-weakref), git+https://github.com/inspect-js/typed-array-length.git (typed-array-length). This software contains the following license and notice below:
+The following software may be included in this product: available-typed-arrays, is-weakref, typed-array-byte-offset, typed-array-length. A copy of the source code may be downloaded from git+https://github.com/inspect-js/available-typed-arrays.git (available-typed-arrays), git+https://github.com/inspect-js/is-weakref.git (is-weakref), git+https://github.com/inspect-js/typed-array-byte-offset.git (typed-array-byte-offset), git+https://github.com/inspect-js/typed-array-length.git (typed-array-length). This software contains the following license and notice below:
 
 MIT License
 
@@ -9277,32 +9277,6 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
 IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
------
-
-The following software may be included in this product: grapheme-splitter. A copy of the source code may be downloaded from https://github.com/orling/grapheme-splitter.git. This software contains the following license and notice below:
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Orlin Georgiev
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 -----
 
