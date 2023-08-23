@@ -1175,7 +1175,7 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: @jest/console, @jest/core, @jest/environment, @jest/expect, @jest/expect-utils, @jest/fake-timers, @jest/globals, @jest/reporters, @jest/schemas, @jest/source-map, @jest/test-result, @jest/test-sequencer, @jest/transform, @jest/types, babel-jest, babel-plugin-jest-hoist, babel-preset-jest, diff-sequences, expect, jest, jest-changed-files, jest-circus, jest-cli, jest-config, jest-diff, jest-docblock, jest-each, jest-environment-jsdom, jest-environment-node, jest-get-type, jest-haste-map, jest-leak-detector, jest-matcher-utils, jest-message-util, jest-mock, jest-regex-util, jest-resolve, jest-resolve-dependencies, jest-runner, jest-runtime, jest-snapshot, jest-util, jest-validate, jest-watcher, jest-worker, pretty-format. A copy of the source code may be downloaded from https://github.com/facebook/jest.git (@jest/console), https://github.com/facebook/jest.git (@jest/core), https://github.com/facebook/jest.git (@jest/environment), https://github.com/facebook/jest.git (@jest/expect), https://github.com/facebook/jest.git (@jest/expect-utils), https://github.com/facebook/jest.git (@jest/fake-timers), https://github.com/facebook/jest.git (@jest/globals), https://github.com/facebook/jest.git (@jest/reporters), https://github.com/facebook/jest.git (@jest/schemas), https://github.com/facebook/jest.git (@jest/source-map), https://github.com/facebook/jest.git (@jest/test-result), https://github.com/facebook/jest.git (@jest/test-sequencer), https://github.com/facebook/jest.git (@jest/transform), https://github.com/facebook/jest.git (@jest/types), https://github.com/facebook/jest.git (babel-jest), https://github.com/facebook/jest.git (babel-plugin-jest-hoist), https://github.com/facebook/jest.git (babel-preset-jest), https://github.com/facebook/jest.git (diff-sequences), https://github.com/facebook/jest.git (expect), https://github.com/facebook/jest.git (jest), https://github.com/facebook/jest.git (jest-changed-files), https://github.com/facebook/jest.git (jest-circus), https://github.com/facebook/jest.git (jest-cli), https://github.com/facebook/jest.git (jest-config), https://github.com/facebook/jest.git (jest-diff), https://github.com/facebook/jest.git (jest-docblock), https://github.com/facebook/jest.git (jest-each), https://github.com/facebook/jest.git (jest-environment-jsdom), https://github.com/facebook/jest.git (jest-environment-node), https://github.com/facebook/jest.git (jest-get-type), https://github.com/facebook/jest.git (jest-haste-map), https://github.com/facebook/jest.git (jest-leak-detector), https://github.com/facebook/jest.git (jest-matcher-utils), https://github.com/facebook/jest.git (jest-message-util), https://github.com/facebook/jest.git (jest-mock), https://github.com/facebook/jest.git (jest-regex-util), https://github.com/facebook/jest.git (jest-resolve), https://github.com/facebook/jest.git (jest-resolve-dependencies), https://github.com/facebook/jest.git (jest-runner), https://github.com/facebook/jest.git (jest-runtime), https://github.com/facebook/jest.git (jest-snapshot), https://github.com/facebook/jest.git (jest-util), https://github.com/facebook/jest.git (jest-validate), https://github.com/facebook/jest.git (jest-watcher), https://github.com/facebook/jest.git (jest-worker), https://github.com/facebook/jest.git (pretty-format). This software contains the following license and notice below:
+The following software may be included in this product: @jest/console, @jest/core, @jest/environment, @jest/expect, @jest/expect-utils, @jest/fake-timers, @jest/globals, @jest/reporters, @jest/schemas, @jest/source-map, @jest/test-result, @jest/test-sequencer, @jest/transform, @jest/types, babel-jest, babel-plugin-jest-hoist, babel-preset-jest, diff-sequences, expect, jest, jest-changed-files, jest-circus, jest-cli, jest-config, jest-diff, jest-docblock, jest-each, jest-environment-jsdom, jest-environment-node, jest-get-type, jest-haste-map, jest-leak-detector, jest-matcher-utils, jest-message-util, jest-mock, jest-regex-util, jest-resolve, jest-resolve-dependencies, jest-runner, jest-runtime, jest-snapshot, jest-util, jest-validate, jest-watcher, jest-worker, pretty-format. A copy of the source code may be downloaded from https://github.com/jestjs/jest.git (@jest/console), https://github.com/jestjs/jest.git (@jest/core), https://github.com/jestjs/jest.git (@jest/environment), https://github.com/jestjs/jest.git (@jest/expect), https://github.com/jestjs/jest.git (@jest/expect-utils), https://github.com/jestjs/jest.git (@jest/fake-timers), https://github.com/jestjs/jest.git (@jest/globals), https://github.com/jestjs/jest.git (@jest/reporters), https://github.com/jestjs/jest.git (@jest/schemas), https://github.com/jestjs/jest.git (@jest/source-map), https://github.com/jestjs/jest.git (@jest/test-result), https://github.com/jestjs/jest.git (@jest/test-sequencer), https://github.com/jestjs/jest.git (@jest/transform), https://github.com/jestjs/jest.git (@jest/types), https://github.com/jestjs/jest.git (babel-jest), https://github.com/jestjs/jest.git (babel-plugin-jest-hoist), https://github.com/jestjs/jest.git (babel-preset-jest), https://github.com/jestjs/jest.git (diff-sequences), https://github.com/jestjs/jest.git (expect), https://github.com/jestjs/jest.git (jest), https://github.com/jestjs/jest.git (jest-changed-files), https://github.com/jestjs/jest.git (jest-circus), https://github.com/jestjs/jest.git (jest-cli), https://github.com/jestjs/jest.git (jest-config), https://github.com/jestjs/jest.git (jest-diff), https://github.com/jestjs/jest.git (jest-docblock), https://github.com/jestjs/jest.git (jest-each), https://github.com/jestjs/jest.git (jest-environment-jsdom), https://github.com/jestjs/jest.git (jest-environment-node), https://github.com/jestjs/jest.git (jest-get-type), https://github.com/jestjs/jest.git (jest-haste-map), https://github.com/jestjs/jest.git (jest-leak-detector), https://github.com/jestjs/jest.git (jest-matcher-utils), https://github.com/jestjs/jest.git (jest-message-util), https://github.com/jestjs/jest.git (jest-mock), https://github.com/jestjs/jest.git (jest-regex-util), https://github.com/jestjs/jest.git (jest-resolve), https://github.com/jestjs/jest.git (jest-resolve-dependencies), https://github.com/jestjs/jest.git (jest-runner), https://github.com/jestjs/jest.git (jest-runtime), https://github.com/jestjs/jest.git (jest-snapshot), https://github.com/jestjs/jest.git (jest-util), https://github.com/jestjs/jest.git (jest-validate), https://github.com/jestjs/jest.git (jest-watcher), https://github.com/jestjs/jest.git (jest-worker), https://github.com/jestjs/jest.git (pretty-format). This software contains the following license and notice below:
 
 MIT License
 
@@ -1941,7 +1941,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -----
 
-The following software may be included in this product: @types/aria-query, @types/babel__core, @types/babel__generator, @types/babel__template, @types/babel__traverse, @types/body-parser, @types/bonjour, @types/connect, @types/connect-history-api-fallback, @types/eslint, @types/eslint-scope, @types/estree, @types/express, @types/express-serve-static-core, @types/graceful-fs, @types/html-minifier-terser, @types/http-errors, @types/http-proxy, @types/istanbul-lib-coverage, @types/istanbul-reports, @types/jest, @types/jsdom, @types/json-schema, @types/mime, @types/minimist, @types/node, @types/normalize-package-data, @types/prop-types, @types/qs, @types/range-parser, @types/react, @types/react-dom, @types/react-is, @types/react-transition-group, @types/resolve, @types/scheduler, @types/semver, @types/send, @types/serve-index, @types/serve-static, @types/sockjs, @types/stack-utils, @types/testing-library__jest-dom, @types/tough-cookie, @types/trusted-types, @types/use-sync-external-store, @types/ws, @types/yargs, @types/yargs-parser. A copy of the source code may be downloaded from https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/aria-query), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__generator), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__template), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__traverse), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/body-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/bonjour), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect-history-api-fallback), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint-scope), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express-serve-static-core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/graceful-fs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/html-minifier-terser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-errors), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-proxy), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-coverage), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-reports), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/jest), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/jsdom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/json-schema), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/mime), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/minimist), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/node), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/normalize-package-data), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/prop-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/qs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/range-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-dom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-is), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-transition-group), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/resolve), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/scheduler), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/semver), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/send), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-index), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-static), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/sockjs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/stack-utils), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/testing-library__jest-dom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/tough-cookie), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/trusted-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/use-sync-external-store), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/ws), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs-parser). This software contains the following license and notice below:
+The following software may be included in this product: @types/aria-query, @types/babel__core, @types/babel__generator, @types/babel__template, @types/babel__traverse, @types/body-parser, @types/bonjour, @types/connect, @types/connect-history-api-fallback, @types/eslint, @types/eslint-scope, @types/estree, @types/express, @types/express-serve-static-core, @types/graceful-fs, @types/html-minifier-terser, @types/http-errors, @types/http-proxy, @types/istanbul-lib-coverage, @types/istanbul-reports, @types/jsdom, @types/json-schema, @types/mime, @types/minimist, @types/node, @types/normalize-package-data, @types/prop-types, @types/qs, @types/range-parser, @types/react, @types/react-dom, @types/react-is, @types/react-transition-group, @types/resolve, @types/scheduler, @types/semver, @types/send, @types/serve-index, @types/serve-static, @types/sockjs, @types/stack-utils, @types/tough-cookie, @types/trusted-types, @types/use-sync-external-store, @types/ws, @types/yargs, @types/yargs-parser. A copy of the source code may be downloaded from https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/aria-query), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__generator), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__template), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__traverse), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/body-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/bonjour), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect-history-api-fallback), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint-scope), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express-serve-static-core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/graceful-fs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/html-minifier-terser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-errors), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-proxy), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-coverage), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-reports), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/jsdom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/json-schema), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/mime), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/minimist), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/node), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/normalize-package-data), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/prop-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/qs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/range-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-dom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-is), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-transition-group), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/resolve), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/scheduler), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/semver), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/send), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-index), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-static), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/sockjs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/stack-utils), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/tough-cookie), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/trusted-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/use-sync-external-store), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/ws), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs-parser). This software contains the following license and notice below:
 
 MIT License
 
@@ -3523,7 +3523,7 @@ THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: array.prototype.findlastindex, array.prototype.tosorted. A copy of the source code may be downloaded from git+https://github.com/es-shims/Array.prototype.findLastIndex.git (array.prototype.findlastindex), git+https://github.com/es-shims/Array.prototype.toSorted.git (array.prototype.tosorted). This software contains the following license and notice below:
+The following software may be included in this product: array.prototype.findlastindex, array.prototype.tosorted, reflect.getprototypeof. A copy of the source code may be downloaded from git+https://github.com/es-shims/Array.prototype.findLastIndex.git (array.prototype.findlastindex), git+https://github.com/es-shims/Array.prototype.toSorted.git (array.prototype.tosorted), git+https://github.com/es-shims/Reflect.getPrototypeOf.git (reflect.getprototypeof). This software contains the following license and notice below:
 
 MIT License
 
@@ -3689,6 +3689,32 @@ THE SOFTWARE.
 
 -----
 
+The following software may be included in this product: asynciterator.prototype, es-shim-unscopables, gopd, iterator.prototype, safe-regex-test. A copy of the source code may be downloaded from git+https://github.com/ljharb/AsyncIterator.prototype.git (asynciterator.prototype), git+https://github.com/ljharb/es-shim-unscopables.git (es-shim-unscopables), git+https://github.com/ljharb/gopd.git (gopd), git+https://github.com/ljharb/Iterator.prototype.git (iterator.prototype), git+https://github.com/ljharb/safe-regex-test.git (safe-regex-test). This software contains the following license and notice below:
+
+MIT License
+
+Copyright (c) 2022 Jordan Harband
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----
+
 The following software may be included in this product: asynckit. A copy of the source code may be downloaded from git+https://github.com/alexindigo/asynckit.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
@@ -3751,7 +3777,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: available-typed-arrays, is-weakref, typed-array-byte-length, typed-array-byte-offset, typed-array-length. A copy of the source code may be downloaded from git+https://github.com/inspect-js/available-typed-arrays.git (available-typed-arrays), git+https://github.com/inspect-js/is-weakref.git (is-weakref), git+https://github.com/inspect-js/typed-array-byte-length.git (typed-array-byte-length), git+https://github.com/inspect-js/typed-array-byte-offset.git (typed-array-byte-offset), git+https://github.com/inspect-js/typed-array-length.git (typed-array-length). This software contains the following license and notice below:
+The following software may be included in this product: available-typed-arrays, is-finalizationregistry, is-weakref, typed-array-byte-length, typed-array-byte-offset, typed-array-length. A copy of the source code may be downloaded from git+https://github.com/inspect-js/available-typed-arrays.git (available-typed-arrays), git+https://github.com/inspect-js/is-finalizationregistry.git (is-finalizationregistry), git+https://github.com/inspect-js/is-weakref.git (is-weakref), git+https://github.com/inspect-js/typed-array-byte-length.git (typed-array-byte-length), git+https://github.com/inspect-js/typed-array-byte-offset.git (typed-array-byte-offset), git+https://github.com/inspect-js/typed-array-length.git (typed-array-length). This software contains the following license and notice below:
 
 MIT License
 
@@ -7376,22 +7402,7 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: es-module-lexer. A copy of the source code may be downloaded from git+https://github.com/guybedford/es-module-lexer.git. This software contains the following license and notice below:
-
-MIT License
------------
-
-Copyright (C) 2018-2022 Guy Bedford
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
------
-
-The following software may be included in this product: es-set-tostringtag. A copy of the source code may be downloaded from git+https://github.com/es-shims/es-set-tostringtag.git. This software contains the following license and notice below:
+The following software may be included in this product: es-iterator-helpers, es-set-tostringtag. A copy of the source code may be downloaded from git+https://github.com/es-shims/iterator-helpers.git (es-iterator-helpers), git+https://github.com/es-shims/es-set-tostringtag.git (es-set-tostringtag). This software contains the following license and notice below:
 
 MIT License
 
@@ -7417,29 +7428,18 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: es-shim-unscopables, gopd, safe-regex-test. A copy of the source code may be downloaded from git+https://github.com/ljharb/es-shim-unscopables.git (es-shim-unscopables), git+https://github.com/ljharb/gopd.git (gopd), git+https://github.com/ljharb/safe-regex-test.git (safe-regex-test). This software contains the following license and notice below:
+The following software may be included in this product: es-module-lexer. A copy of the source code may be downloaded from git+https://github.com/guybedford/es-module-lexer.git. This software contains the following license and notice below:
 
 MIT License
+-----------
 
-Copyright (c) 2022 Jordan Harband
+Copyright (C) 2018-2022 Guy Bedford
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
@@ -10324,7 +10324,7 @@ THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: is-arguments, is-negative-zero, is-regex, object-is. A copy of the source code may be downloaded from git://github.com/inspect-js/is-arguments.git (is-arguments), git://github.com/inspect-js/is-negative-zero.git (is-negative-zero), git://github.com/inspect-js/is-regex.git (is-regex), git://github.com/es-shims/object-is.git (object-is). This software contains the following license and notice below:
+The following software may be included in this product: is-arguments, is-generator-function, is-negative-zero, is-regex, object-is. A copy of the source code may be downloaded from git://github.com/inspect-js/is-arguments.git (is-arguments), git://github.com/inspect-js/is-generator-function.git (is-generator-function), git://github.com/inspect-js/is-negative-zero.git (is-negative-zero), git://github.com/inspect-js/is-regex.git (is-regex), git://github.com/es-shims/object-is.git (object-is). This software contains the following license and notice below:
 
 The MIT License (MIT)
 
@@ -10372,6 +10372,31 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-----
+
+The following software may be included in this product: is-async-function. A copy of the source code may be downloaded from git://github.com/inspect-js/is-async-function.git. This software contains the following license and notice below:
+
+The MIT License (MIT)
+
+Copyright (c) 2021 Jordan Harband
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
@@ -13317,7 +13342,7 @@ MIT, ISC, BSD-2-Clause, BSD-3-Clause, Apache-2.0
 
 ## Bundled dependencies
 
-### @angular/compiler@v16.1.7
+### @angular/compiler@v16.2.0
 
 > Angular - the compiler library
 
@@ -13327,7 +13352,7 @@ Author: angular
 
 ----------------------------------------
 
-### @babel/code-frame@v7.22.5
+### @babel/code-frame@v7.22.10
 
 > Generate errors that contain a code frame that point to source locations.
 
@@ -13394,7 +13419,7 @@ Author: The Babel Team (https://babel.dev/team)
 
 ----------------------------------------
 
-### @babel/highlight@v7.22.5
+### @babel/highlight@v7.22.10
 
 > Syntax highlight JavaScript strings for output in terminals.
 
@@ -13428,7 +13453,7 @@ Author: The Babel Team (https://babel.dev/team)
 
 ----------------------------------------
 
-### @babel/parser@v7.22.7
+### @babel/parser@v7.22.10
 
 > A JavaScript parser
 
@@ -13697,7 +13722,7 @@ Author: fisker Cheung <lionkay@gmail.com>
 
 ----------------------------------------
 
-### @prettier/parse-srcset@v3.0.0
+### @prettier/parse-srcset@v3.1.0
 
 > A spec-conformant JavaScript parser for the HTML5 srcset attribute
 
@@ -13708,6 +13733,7 @@ Author: Alex Bell <alex@bellandwhistle.net>
 > The MIT License (MIT)
 >
 > Copyright (c) 2014 Alex Bell
+> Copyright (c) fisker Cheung
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -13729,7 +13755,7 @@ Author: Alex Bell <alex@bellandwhistle.net>
 
 ----------------------------------------
 
-### @typescript-eslint/types@v6.2.0
+### @typescript-eslint/types@v6.4.0
 
 > Types for the TypeScript-ESTree AST spec
 
@@ -13760,7 +13786,7 @@ Repository: <https://github.com/typescript-eslint/typescript-eslint.git>
 
 ----------------------------------------
 
-### @typescript-eslint/typescript-estree@v6.2.0
+### @typescript-eslint/typescript-estree@v6.4.0
 
 > A parser that converts TypeScript source code into an ESTree compatible form
 
@@ -14098,7 +14124,7 @@ Contributors:
 
 ----------------------------------------
 
-### camelcase@v7.0.1
+### camelcase@v8.0.0
 
 > Convert a dash/dot/underscore/space separated string to camelCase or PascalCase: `foo-bar` → `fooBar`
 
@@ -15215,7 +15241,7 @@ Contributors:
 
 ----------------------------------------
 
-### flow-parser@v0.213.1
+### flow-parser@v0.214.0
 
 > JavaScript parser written in OCaml. Produces ESTree AST
 
@@ -22494,6 +22520,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+-----
+
+The following software may be included in this product: which-builtin-type. A copy of the source code may be downloaded from git+https://github.com/inspect-js/which-builtin-type.git. This software contains the following license and notice below:
+
+MIT License
+
+Copyright (c) 2020 ECMAScript Shims
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 -----
 
