@@ -682,6 +682,31 @@ THE SOFTWARE.
 
 -----
 
+The following software may be included in this product: @floating-ui/core, @floating-ui/dom, @floating-ui/react-dom, @floating-ui/utils. A copy of the source code may be downloaded from https://github.com/floating-ui/floating-ui.git (@floating-ui/core), https://github.com/floating-ui/floating-ui.git (@floating-ui/dom), https://github.com/floating-ui/floating-ui.git (@floating-ui/react-dom), https://github.com/floating-ui/floating-ui.git (@floating-ui/utils). This software contains the following license and notice below:
+
+MIT License
+
+Copyright (c) 2021-present Floating UI contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
 The following software may be included in this product: @fontsource/roboto. A copy of the source code may be downloaded from https://github.com/fontsource/font-files.git. This software contains the following license and notice below:
 
 Apache License
@@ -8562,7 +8587,7 @@ specific language governing permissions and limitations under the License.
 
 -----
 
-The following software may be included in this product: file-entry-cache, flat-cache. A copy of the source code may be downloaded from https://github.com/royriojas/file-entry-cache.git (file-entry-cache), https://github.com/royriojas/flat-cache.git (flat-cache). This software contains the following license and notice below:
+The following software may be included in this product: file-entry-cache. A copy of the source code may be downloaded from https://github.com/royriojas/file-entry-cache.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
 
@@ -8697,6 +8722,32 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
+The following software may be included in this product: flat-cache. A copy of the source code may be downloaded from https://github.com/jaredwray/flat-cache.git. This software contains the following license and notice below:
+
+The MIT License (MIT)
+
+Copyright (c) Roy Riojas and Jared Wray
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 -----
 
@@ -8847,11 +8898,11 @@ Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
 
 -----
 
-The following software may be included in this product: fraction.js. A copy of the source code may be downloaded from git://github.com/infusion/Fraction.js.git. This software contains the following license and notice below:
+The following software may be included in this product: fraction.js. A copy of the source code may be downloaded from git://github.com/rawify/Fraction.js.git. This software contains the following license and notice below:
 
 MIT License
 
-Copyright (c) 2017 Robert Eisele
+Copyright (c) 2023 Robert Eisele
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -10689,6 +10740,33 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
+The following software may be included in this product: json-buffer. A copy of the source code may be downloaded from git://github.com/dominictarr/json-buffer.git. This software contains the following license and notice below:
+
+Copyright (c) 2013 Dominic Tarr
+
+Permission is hereby granted, free of charge, 
+to any person obtaining a copy of this software and 
+associated documentation files (the "Software"), to 
+deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom 
+the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice 
+shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR 
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
@@ -13342,7 +13420,7 @@ MIT, ISC, BSD-2-Clause, BSD-3-Clause, Apache-2.0
 
 ## Bundled dependencies
 
-### @angular/compiler@v16.2.0
+### @angular/compiler@v16.2.2
 
 > Angular - the compiler library
 
@@ -13453,7 +13531,7 @@ Author: The Babel Team (https://babel.dev/team)
 
 ----------------------------------------
 
-### @babel/parser@v7.22.10
+### @babel/parser@v7.22.11
 
 > A JavaScript parser
 
@@ -13755,7 +13833,7 @@ Author: Alex Bell <alex@bellandwhistle.net>
 
 ----------------------------------------
 
-### @typescript-eslint/types@v6.4.0
+### @typescript-eslint/types@v6.5.0
 
 > Types for the TypeScript-ESTree AST spec
 
@@ -13786,7 +13864,7 @@ Repository: <https://github.com/typescript-eslint/typescript-eslint.git>
 
 ----------------------------------------
 
-### @typescript-eslint/typescript-estree@v6.4.0
+### @typescript-eslint/typescript-estree@v6.5.0
 
 > A parser that converts TypeScript source code into an ESTree compatible form
 
@@ -14916,7 +14994,7 @@ Contributors:
 
 ----------------------------------------
 
-### fast-glob@v3.2.12
+### fast-glob@v3.3.1
 
 > It's a very fast and efficient glob library for Node.js
 
@@ -15005,16 +15083,16 @@ Author: Matteo Collina <hello@matteocollina.com>
 
 ----------------------------------------
 
-### file-entry-cache@v6.0.1
+### file-entry-cache@v7.0.0
 
 > Super simple cache for file metadata, useful for process that work o a given series of files and that only need to repeat the job on the changed ones since the previous run of the process
 
 License: MIT
-Author: Roy Riojas (http://royriojas.com)
+Author: Jared Wray (https://jaredwray.com)
 
 > The MIT License (MIT)
 >
-> Copyright (c) 2015 Roy Riojas
+> Copyright (c) Roy Riojas & Jared Wray
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -15148,16 +15226,16 @@ Author: Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 
 ----------------------------------------
 
-### flat-cache@v3.0.4
+### flat-cache@v3.1.0
 
 > A stupidly simple key/value storage using files to persist some data
 
 License: MIT
-Author: Roy Riojas (http://royriojas.com)
+Author: Jared Wray (https://jaredwray.com)
 
 > The MIT License (MIT)
 >
-> Copyright (c) 2015 Roy Riojas
+> Copyright (c) Roy Riojas and Jared Wray
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -15241,7 +15319,7 @@ Contributors:
 
 ----------------------------------------
 
-### flow-parser@v0.214.0
+### flow-parser@v0.215.1
 
 > JavaScript parser written in OCaml. Produces ESTree AST
 
@@ -15385,7 +15463,7 @@ Contributors:
 
 ----------------------------------------
 
-### graphql@v16.7.1
+### graphql@v16.8.0
 
 > A Query Language and Runtime which can target any service.
 
@@ -16049,10 +16127,10 @@ Contributors:
 
 ----------------------------------------
 
-### jest-docblock@v29.4.3
+### jest-docblock@v29.6.3
 
 License: MIT
-Repository: <https://github.com/facebook/jest.git>
+Repository: <https://github.com/jestjs/jest.git>
 
 > MIT License
 >
@@ -16144,6 +16222,40 @@ Contributors:
 
 ----------------------------------------
 
+### json-buffer@v3.0.1
+
+> JSON parse & stringify that supports binary via bops & base64
+
+License: MIT
+Homepage: <https://github.com/dominictarr/json-buffer>
+Repository: <git://github.com/dominictarr/json-buffer.git>
+Author: Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)
+
+> Copyright (c) 2013 Dominic Tarr
+>
+> Permission is hereby granted, free of charge, 
+> to any person obtaining a copy of this software and 
+> associated documentation files (the "Software"), to 
+> deal in the Software without restriction, including 
+> without limitation the rights to use, copy, modify, 
+> merge, publish, distribute, sublicense, and/or sell 
+> copies of the Software, and to permit persons to whom 
+> the Software is furnished to do so, 
+> subject to the following conditions:
+>
+> The above copyright notice and this permission notice 
+> shall be included in all copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+> EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+> OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+> IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR 
+> ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+> TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+> SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------
+
 ### json-parse-even-better-errors@v2.3.1
 
 > JSON.parse with context information on error
@@ -16215,6 +16327,17 @@ Contributors:
 > SOFTWARE.
 >
 > [others]: https://github.com/json5/json5/contributors
+
+----------------------------------------
+
+### keyv@v4.5.3
+
+> Simple key-value storage with support for multiple backends
+
+License: MIT
+Homepage: <https://github.com/jaredwray/keyv>
+Repository: <git+https://github.com/jaredwray/keyv.git>
+Author: Jared Wray <me@jaredwray.com> (http://jaredwray.com)
 
 ----------------------------------------
 
@@ -16982,7 +17105,7 @@ Author: typicode
 
 ----------------------------------------
 
-### postcss@v8.4.27
+### postcss@v8.4.28
 
 > Tool for transforming styles with JS plugins
 
@@ -17059,7 +17182,7 @@ Author: dryoma
 
 ----------------------------------------
 
-### postcss-scss@v4.0.6
+### postcss-scss@v4.0.7
 
 > SCSS parser for PostCSS
 
@@ -17787,7 +17910,7 @@ Author: Josh Goldberg <npm@joshuakgoldberg.com>
 
 ----------------------------------------
 
-### typescript@v5.1.6
+### typescript@v5.2.2
 
 > TypeScript is a language for application scale JavaScript development
 
@@ -21270,8 +21393,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 -----
 
 The following software may be included in this product: terser. A copy of the source code may be downloaded from https://github.com/terser/terser. This software contains the following license and notice below:
-
-Terser is released under the BSD license:
 
 Copyright 2012-2018 (c) Mihai Bazon <mihai.bazon@gmail.com>
 
