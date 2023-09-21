@@ -2,7 +2,7 @@ THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY B
 
 -----
 
-The following software may be included in this product: @aashutoshrathi/word-wrap, is-extglob. A copy of the source code may be downloaded from git+https://github.com/aashutoshrathi/word-wrap.git (@aashutoshrathi/word-wrap), https://github.com/jonschlinkert/is-extglob.git (is-extglob). This software contains the following license and notice below:
+The following software may be included in this product: @aashutoshrathi/word-wrap, is-extglob, word-wrap. A copy of the source code may be downloaded from git+https://github.com/aashutoshrathi/word-wrap.git (@aashutoshrathi/word-wrap), https://github.com/jonschlinkert/is-extglob.git (is-extglob), https://github.com/jonschlinkert/word-wrap.git (word-wrap). This software contains the following license and notice below:
 
 The MIT License (MIT)
 
@@ -444,7 +444,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: @csstools/color-helpers, @csstools/postcss-cascade-layers, @csstools/postcss-color-function, @csstools/postcss-color-mix-function, @csstools/postcss-exponential-functions, @csstools/postcss-font-format-keywords, @csstools/postcss-gradients-interpolation-method, @csstools/postcss-hwb-function, @csstools/postcss-ic-unit, @csstools/postcss-is-pseudo-class, @csstools/postcss-logical-float-and-clear, @csstools/postcss-logical-resize, @csstools/postcss-logical-viewport-units, @csstools/postcss-media-queries-aspect-ratio-number-values, @csstools/postcss-nested-calc, @csstools/postcss-normalize-display-values, @csstools/postcss-oklab-function, @csstools/postcss-progressive-custom-properties, @csstools/postcss-relative-color-syntax, @csstools/postcss-scope-pseudo-class, @csstools/postcss-stepped-value-functions, @csstools/postcss-text-decoration-shorthand, @csstools/postcss-trigonometric-functions, @csstools/postcss-unset-value, @csstools/selector-specificity, css-blank-pseudo, css-has-pseudo, css-prefers-color-scheme, postcss-color-functional-notation, postcss-color-rebeccapurple, postcss-dir-pseudo-class, postcss-double-position-gradients, postcss-focus-visible, postcss-focus-within, postcss-gap-properties, postcss-image-set-function, postcss-lab-function, postcss-logical, postcss-nesting, postcss-overflow-shorthand, postcss-place, postcss-preset-env, postcss-pseudo-class-any-link. A copy of the source code may be downloaded from https://github.com/csstools/postcss-plugins.git (@csstools/color-helpers), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-cascade-layers), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-mix-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-exponential-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-font-format-keywords), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-gradients-interpolation-method), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-hwb-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-ic-unit), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-is-pseudo-class), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-float-and-clear), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-resize), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-viewport-units), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-media-queries-aspect-ratio-number-values), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-nested-calc), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-normalize-display-values), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-oklab-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-progressive-custom-properties), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-relative-color-syntax), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-scope-pseudo-class), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-stepped-value-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-text-decoration-shorthand), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-trigonometric-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-unset-value), https://github.com/csstools/postcss-plugins.git (@csstools/selector-specificity), https://github.com/csstools/postcss-plugins.git (css-blank-pseudo), https://github.com/csstools/postcss-plugins.git (css-has-pseudo), https://github.com/csstools/postcss-plugins.git (css-prefers-color-scheme), https://github.com/csstools/postcss-plugins.git (postcss-color-functional-notation), https://github.com/csstools/postcss-plugins.git (postcss-color-rebeccapurple), https://github.com/csstools/postcss-plugins.git (postcss-dir-pseudo-class), https://github.com/csstools/postcss-plugins.git (postcss-double-position-gradients), https://github.com/csstools/postcss-plugins.git (postcss-focus-visible), https://github.com/csstools/postcss-plugins.git (postcss-focus-within), https://github.com/csstools/postcss-plugins.git (postcss-gap-properties), https://github.com/csstools/postcss-plugins.git (postcss-image-set-function), https://github.com/csstools/postcss-plugins.git (postcss-lab-function), https://github.com/csstools/postcss-plugins.git (postcss-logical), https://github.com/csstools/postcss-plugins.git (postcss-nesting), https://github.com/csstools/postcss-plugins.git (postcss-overflow-shorthand), https://github.com/csstools/postcss-plugins.git (postcss-place), https://github.com/csstools/postcss-plugins.git (postcss-preset-env), https://github.com/csstools/postcss-plugins.git (postcss-pseudo-class-any-link). This software contains the following license and notice below:
+The following software may be included in this product: @csstools/color-helpers, @csstools/postcss-cascade-layers, @csstools/postcss-color-function, @csstools/postcss-color-mix-function, @csstools/postcss-exponential-functions, @csstools/postcss-font-format-keywords, @csstools/postcss-gradients-interpolation-method, @csstools/postcss-hwb-function, @csstools/postcss-ic-unit, @csstools/postcss-initial, @csstools/postcss-is-pseudo-class, @csstools/postcss-logical-float-and-clear, @csstools/postcss-logical-resize, @csstools/postcss-logical-viewport-units, @csstools/postcss-media-queries-aspect-ratio-number-values, @csstools/postcss-nested-calc, @csstools/postcss-normalize-display-values, @csstools/postcss-oklab-function, @csstools/postcss-progressive-custom-properties, @csstools/postcss-relative-color-syntax, @csstools/postcss-scope-pseudo-class, @csstools/postcss-stepped-value-functions, @csstools/postcss-text-decoration-shorthand, @csstools/postcss-trigonometric-functions, @csstools/postcss-unset-value, @csstools/selector-specificity, css-blank-pseudo, css-has-pseudo, css-prefers-color-scheme, postcss-color-functional-notation, postcss-color-rebeccapurple, postcss-dir-pseudo-class, postcss-double-position-gradients, postcss-focus-visible, postcss-focus-within, postcss-gap-properties, postcss-image-set-function, postcss-lab-function, postcss-logical, postcss-nesting, postcss-overflow-shorthand, postcss-place, postcss-preset-env, postcss-pseudo-class-any-link. A copy of the source code may be downloaded from https://github.com/csstools/postcss-plugins.git (@csstools/color-helpers), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-cascade-layers), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-color-mix-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-exponential-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-font-format-keywords), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-gradients-interpolation-method), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-hwb-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-ic-unit), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-initial), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-is-pseudo-class), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-float-and-clear), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-resize), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-logical-viewport-units), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-media-queries-aspect-ratio-number-values), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-nested-calc), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-normalize-display-values), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-oklab-function), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-progressive-custom-properties), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-relative-color-syntax), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-scope-pseudo-class), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-stepped-value-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-text-decoration-shorthand), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-trigonometric-functions), https://github.com/csstools/postcss-plugins.git (@csstools/postcss-unset-value), https://github.com/csstools/postcss-plugins.git (@csstools/selector-specificity), https://github.com/csstools/postcss-plugins.git (css-blank-pseudo), https://github.com/csstools/postcss-plugins.git (css-has-pseudo), https://github.com/csstools/postcss-plugins.git (css-prefers-color-scheme), https://github.com/csstools/postcss-plugins.git (postcss-color-functional-notation), https://github.com/csstools/postcss-plugins.git (postcss-color-rebeccapurple), https://github.com/csstools/postcss-plugins.git (postcss-dir-pseudo-class), https://github.com/csstools/postcss-plugins.git (postcss-double-position-gradients), https://github.com/csstools/postcss-plugins.git (postcss-focus-visible), https://github.com/csstools/postcss-plugins.git (postcss-focus-within), https://github.com/csstools/postcss-plugins.git (postcss-gap-properties), https://github.com/csstools/postcss-plugins.git (postcss-image-set-function), https://github.com/csstools/postcss-plugins.git (postcss-lab-function), https://github.com/csstools/postcss-plugins.git (postcss-logical), https://github.com/csstools/postcss-plugins.git (postcss-nesting), https://github.com/csstools/postcss-plugins.git (postcss-overflow-shorthand), https://github.com/csstools/postcss-plugins.git (postcss-place), https://github.com/csstools/postcss-plugins.git (postcss-preset-env), https://github.com/csstools/postcss-plugins.git (postcss-pseudo-class-any-link). This software contains the following license and notice below:
 
 MIT No Attribution (MIT-0)
 
@@ -1200,7 +1200,7 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: @jest/console, @jest/core, @jest/environment, @jest/expect, @jest/expect-utils, @jest/fake-timers, @jest/globals, @jest/reporters, @jest/schemas, @jest/source-map, @jest/test-result, @jest/test-sequencer, @jest/transform, @jest/types, babel-jest, babel-plugin-jest-hoist, babel-preset-jest, diff-sequences, expect, jest, jest-changed-files, jest-circus, jest-cli, jest-config, jest-diff, jest-docblock, jest-each, jest-environment-jsdom, jest-environment-node, jest-get-type, jest-haste-map, jest-leak-detector, jest-matcher-utils, jest-message-util, jest-mock, jest-regex-util, jest-resolve, jest-resolve-dependencies, jest-runner, jest-runtime, jest-snapshot, jest-util, jest-validate, jest-watcher, jest-worker, pretty-format. A copy of the source code may be downloaded from https://github.com/jestjs/jest.git (@jest/console), https://github.com/jestjs/jest.git (@jest/core), https://github.com/jestjs/jest.git (@jest/environment), https://github.com/jestjs/jest.git (@jest/expect), https://github.com/jestjs/jest.git (@jest/expect-utils), https://github.com/jestjs/jest.git (@jest/fake-timers), https://github.com/jestjs/jest.git (@jest/globals), https://github.com/jestjs/jest.git (@jest/reporters), https://github.com/jestjs/jest.git (@jest/schemas), https://github.com/jestjs/jest.git (@jest/source-map), https://github.com/jestjs/jest.git (@jest/test-result), https://github.com/jestjs/jest.git (@jest/test-sequencer), https://github.com/jestjs/jest.git (@jest/transform), https://github.com/jestjs/jest.git (@jest/types), https://github.com/jestjs/jest.git (babel-jest), https://github.com/jestjs/jest.git (babel-plugin-jest-hoist), https://github.com/jestjs/jest.git (babel-preset-jest), https://github.com/jestjs/jest.git (diff-sequences), https://github.com/jestjs/jest.git (expect), https://github.com/jestjs/jest.git (jest), https://github.com/jestjs/jest.git (jest-changed-files), https://github.com/jestjs/jest.git (jest-circus), https://github.com/jestjs/jest.git (jest-cli), https://github.com/jestjs/jest.git (jest-config), https://github.com/jestjs/jest.git (jest-diff), https://github.com/jestjs/jest.git (jest-docblock), https://github.com/jestjs/jest.git (jest-each), https://github.com/jestjs/jest.git (jest-environment-jsdom), https://github.com/jestjs/jest.git (jest-environment-node), https://github.com/jestjs/jest.git (jest-get-type), https://github.com/jestjs/jest.git (jest-haste-map), https://github.com/jestjs/jest.git (jest-leak-detector), https://github.com/jestjs/jest.git (jest-matcher-utils), https://github.com/jestjs/jest.git (jest-message-util), https://github.com/jestjs/jest.git (jest-mock), https://github.com/jestjs/jest.git (jest-regex-util), https://github.com/jestjs/jest.git (jest-resolve), https://github.com/jestjs/jest.git (jest-resolve-dependencies), https://github.com/jestjs/jest.git (jest-runner), https://github.com/jestjs/jest.git (jest-runtime), https://github.com/jestjs/jest.git (jest-snapshot), https://github.com/jestjs/jest.git (jest-util), https://github.com/jestjs/jest.git (jest-validate), https://github.com/jestjs/jest.git (jest-watcher), https://github.com/jestjs/jest.git (jest-worker), https://github.com/jestjs/jest.git (pretty-format). This software contains the following license and notice below:
+The following software may be included in this product: @jest/console, @jest/core, @jest/environment, @jest/expect, @jest/expect-utils, @jest/fake-timers, @jest/globals, @jest/reporters, @jest/schemas, @jest/source-map, @jest/test-result, @jest/test-sequencer, @jest/transform, @jest/types, babel-jest, babel-plugin-jest-hoist, babel-preset-jest, create-jest, diff-sequences, expect, jest, jest-changed-files, jest-circus, jest-cli, jest-config, jest-diff, jest-docblock, jest-each, jest-environment-jsdom, jest-environment-node, jest-get-type, jest-haste-map, jest-leak-detector, jest-matcher-utils, jest-message-util, jest-mock, jest-regex-util, jest-resolve, jest-resolve-dependencies, jest-runner, jest-runtime, jest-snapshot, jest-util, jest-validate, jest-watcher, jest-worker, pretty-format. A copy of the source code may be downloaded from https://github.com/jestjs/jest.git (@jest/console), https://github.com/jestjs/jest.git (@jest/core), https://github.com/jestjs/jest.git (@jest/environment), https://github.com/jestjs/jest.git (@jest/expect), https://github.com/jestjs/jest.git (@jest/expect-utils), https://github.com/jestjs/jest.git (@jest/fake-timers), https://github.com/jestjs/jest.git (@jest/globals), https://github.com/jestjs/jest.git (@jest/reporters), https://github.com/jestjs/jest.git (@jest/schemas), https://github.com/jestjs/jest.git (@jest/source-map), https://github.com/jestjs/jest.git (@jest/test-result), https://github.com/jestjs/jest.git (@jest/test-sequencer), https://github.com/jestjs/jest.git (@jest/transform), https://github.com/jestjs/jest.git (@jest/types), https://github.com/jestjs/jest.git (babel-jest), https://github.com/jestjs/jest.git (babel-plugin-jest-hoist), https://github.com/jestjs/jest.git (babel-preset-jest), https://github.com/jestjs/jest.git (create-jest), https://github.com/jestjs/jest.git (diff-sequences), https://github.com/jestjs/jest.git (expect), https://github.com/jestjs/jest.git (jest), https://github.com/jestjs/jest.git (jest-changed-files), https://github.com/jestjs/jest.git (jest-circus), https://github.com/jestjs/jest.git (jest-cli), https://github.com/jestjs/jest.git (jest-config), https://github.com/jestjs/jest.git (jest-diff), https://github.com/jestjs/jest.git (jest-docblock), https://github.com/jestjs/jest.git (jest-each), https://github.com/jestjs/jest.git (jest-environment-jsdom), https://github.com/jestjs/jest.git (jest-environment-node), https://github.com/jestjs/jest.git (jest-get-type), https://github.com/jestjs/jest.git (jest-haste-map), https://github.com/jestjs/jest.git (jest-leak-detector), https://github.com/jestjs/jest.git (jest-matcher-utils), https://github.com/jestjs/jest.git (jest-message-util), https://github.com/jestjs/jest.git (jest-mock), https://github.com/jestjs/jest.git (jest-regex-util), https://github.com/jestjs/jest.git (jest-resolve), https://github.com/jestjs/jest.git (jest-resolve-dependencies), https://github.com/jestjs/jest.git (jest-runner), https://github.com/jestjs/jest.git (jest-runtime), https://github.com/jestjs/jest.git (jest-snapshot), https://github.com/jestjs/jest.git (jest-util), https://github.com/jestjs/jest.git (jest-validate), https://github.com/jestjs/jest.git (jest-watcher), https://github.com/jestjs/jest.git (jest-worker), https://github.com/jestjs/jest.git (pretty-format). This software contains the following license and notice below:
 
 MIT License
 
@@ -1966,7 +1966,7 @@ IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 -----
 
-The following software may be included in this product: @types/aria-query, @types/babel__core, @types/babel__generator, @types/babel__template, @types/babel__traverse, @types/body-parser, @types/bonjour, @types/connect, @types/connect-history-api-fallback, @types/eslint, @types/eslint-scope, @types/estree, @types/express, @types/express-serve-static-core, @types/graceful-fs, @types/html-minifier-terser, @types/http-errors, @types/http-proxy, @types/istanbul-lib-coverage, @types/istanbul-reports, @types/jsdom, @types/json-schema, @types/mime, @types/minimist, @types/node, @types/normalize-package-data, @types/prop-types, @types/qs, @types/range-parser, @types/react, @types/react-dom, @types/react-is, @types/react-transition-group, @types/resolve, @types/scheduler, @types/semver, @types/send, @types/serve-index, @types/serve-static, @types/sockjs, @types/stack-utils, @types/tough-cookie, @types/trusted-types, @types/use-sync-external-store, @types/ws, @types/yargs, @types/yargs-parser. A copy of the source code may be downloaded from https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/aria-query), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__generator), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__template), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__traverse), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/body-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/bonjour), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect-history-api-fallback), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint-scope), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express-serve-static-core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/graceful-fs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/html-minifier-terser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-errors), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-proxy), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-coverage), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-reports), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/jsdom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/json-schema), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/mime), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/minimist), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/node), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/normalize-package-data), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/prop-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/qs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/range-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-dom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-is), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-transition-group), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/resolve), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/scheduler), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/semver), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/send), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-index), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-static), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/sockjs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/stack-utils), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/tough-cookie), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/trusted-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/use-sync-external-store), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/ws), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs-parser). This software contains the following license and notice below:
+The following software may be included in this product: @types/aria-query, @types/babel__core, @types/babel__generator, @types/babel__template, @types/babel__traverse, @types/body-parser, @types/bonjour, @types/connect, @types/connect-history-api-fallback, @types/eslint, @types/eslint-scope, @types/estree, @types/express, @types/express-serve-static-core, @types/graceful-fs, @types/hoist-non-react-statics, @types/html-minifier-terser, @types/http-errors, @types/http-proxy, @types/istanbul-lib-coverage, @types/istanbul-reports, @types/jsdom, @types/json-schema, @types/mime, @types/minimist, @types/node, @types/normalize-package-data, @types/prop-types, @types/qs, @types/range-parser, @types/react, @types/react-dom, @types/react-transition-group, @types/resolve, @types/scheduler, @types/semver, @types/send, @types/serve-index, @types/serve-static, @types/sockjs, @types/stack-utils, @types/tough-cookie, @types/trusted-types, @types/use-sync-external-store, @types/ws, @types/yargs, @types/yargs-parser. A copy of the source code may be downloaded from https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/aria-query), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__generator), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__template), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/babel__traverse), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/body-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/bonjour), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/connect-history-api-fallback), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/eslint-scope), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/express-serve-static-core), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/graceful-fs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/hoist-non-react-statics), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/html-minifier-terser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-errors), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/http-proxy), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-coverage), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-reports), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/jsdom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/json-schema), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/mime), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/minimist), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/node), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/normalize-package-data), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/prop-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/qs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/range-parser), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-dom), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/react-transition-group), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/resolve), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/scheduler), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/semver), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/send), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-index), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/serve-static), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/sockjs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/stack-utils), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/tough-cookie), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/trusted-types), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/use-sync-external-store), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/ws), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/yargs-parser). This software contains the following license and notice below:
 
 MIT License
 
@@ -1992,7 +1992,7 @@ MIT License
 
 -----
 
-The following software may be included in this product: @types/estree, @types/hoist-non-react-statics, @types/istanbul-lib-report, @types/parse-json, @types/retry. A copy of the source code may be downloaded from https://www.github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/hoist-non-react-statics), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-report), https://www.github.com/DefinitelyTyped/DefinitelyTyped.git (@types/parse-json), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/retry). This software contains the following license and notice below:
+The following software may be included in this product: @types/estree, @types/istanbul-lib-report, @types/parse-json, @types/retry. A copy of the source code may be downloaded from https://www.github.com/DefinitelyTyped/DefinitelyTyped.git (@types/estree), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/istanbul-lib-report), https://www.github.com/DefinitelyTyped/DefinitelyTyped.git (@types/parse-json), https://github.com/DefinitelyTyped/DefinitelyTyped.git (@types/retry). This software contains the following license and notice below:
 
 MIT License
 
@@ -5814,7 +5814,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: concat-map, json-stable-stringify-without-jsonify, minimist, text-table. A copy of the source code may be downloaded from git://github.com/substack/node-concat-map.git (concat-map), git://github.com/samn/json-stable-stringify.git (json-stable-stringify-without-jsonify), git://github.com/minimistjs/minimist.git (minimist), git://github.com/substack/text-table.git (text-table). This software contains the following license and notice below:
+The following software may be included in this product: concat-map, json-stable-stringify-without-jsonify, minimist, static-eval, text-table. A copy of the source code may be downloaded from git://github.com/substack/node-concat-map.git (concat-map), git://github.com/samn/json-stable-stringify.git (json-stable-stringify-without-jsonify), git://github.com/minimistjs/minimist.git (minimist), git://github.com/substack/static-eval.git (static-eval), git://github.com/substack/text-table.git (text-table). This software contains the following license and notice below:
 
 This software is released under the MIT license:
 
@@ -6687,6 +6687,32 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----
+
+The following software may be included in this product: define-data-property, safe-array-concat, stop-iteration-iterator, typed-array-buffer. A copy of the source code may be downloaded from git+https://github.com/ljharb/define-data-property.git (define-data-property), git+https://github.com/ljharb/safe-array-concat.git (safe-array-concat), git+https://github.com/ljharb/stop-iteration-iterator.git (stop-iteration-iterator), git+https://github.com/ljharb/typed-array-buffer.git (typed-array-buffer). This software contains the following license and notice below:
+
+MIT License
+
+Copyright (c) 2023 Jordan Harband
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 -----
 
@@ -11048,6 +11074,18 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 
 -----
 
+The following software may be included in this product: jsonpath. A copy of the source code may be downloaded from https://github.com/dchester/jsonpath. This software contains the following license and notice below:
+
+Copyright (c) 2014-2016 David Chester <david@fmail.co.uk>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
 The following software may be included in this product: jsonpointer. A copy of the source code may be downloaded from https://github.com/janl/node-jsonpointer.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
@@ -13028,31 +13066,6 @@ The following software may be included in this product: postcss-import. A copy o
 The MIT License (MIT)
 
 Copyright (c) 2014 Maxime Thirouin, Jason Campbell & Kevin Mårtensson
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
------
-
-The following software may be included in this product: postcss-initial. A copy of the source code may be downloaded from https://github.com/maximkoretskiy/postcss-initial.git. This software contains the following license and notice below:
-
-The MIT License (MIT)
-
-Copyright 2015 Maksim Koretskiy <mr.green.tv@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -20126,32 +20139,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: safe-array-concat, stop-iteration-iterator, typed-array-buffer. A copy of the source code may be downloaded from git+https://github.com/ljharb/safe-array-concat.git (safe-array-concat), git+https://github.com/ljharb/stop-iteration-iterator.git (stop-iteration-iterator), git+https://github.com/ljharb/typed-array-buffer.git (typed-array-buffer). This software contains the following license and notice below:
-
-MIT License
-
-Copyright (c) 2023 Jordan Harband
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
------
-
 The following software may be included in this product: safe-buffer. A copy of the source code may be downloaded from git://github.com/feross/safe-buffer.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
@@ -20347,6 +20334,32 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
+The following software may be included in this product: set-function-name. A copy of the source code may be downloaded from git+https://github.com/ljharb/set-function-name.git. This software contains the following license and notice below:
+
+MIT License
+
+Copyright (c) Jordan Harband and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 -----
 
@@ -21978,6 +21991,34 @@ END OF TERMS AND CONDITIONS
 
 -----
 
+The following software may be included in this product: underscore. A copy of the source code may be downloaded from git://github.com/jashkenas/underscore.git. This software contains the following license and notice below:
+
+Copyright (c) 2009-2020 Jeremy Ashkenas, DocumentCloud and Investigative
+Reporters & Editors
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
 The following software may be included in this product: universalify. A copy of the source code may be downloaded from git+https://github.com/RyanZim/universalify.git. This software contains the following license and notice below:
 
 (The MIT License)
@@ -22704,7 +22745,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 -----
 
-The following software may be included in this product: ws. A copy of the source code may be downloaded from https://github.com/websockets/ws.git. This software contains the following license and notice below:
+The following software may be included in this product: ws. A copy of the source code may be downloaded from git+https://github.com/websockets/ws.git. This software contains the following license and notice below:
 
 Copyright (c) 2011 Einar Otto Stangvik <einaros@gmail.com>
 Copyright (c) 2013 Arnout Kazemier and contributors
